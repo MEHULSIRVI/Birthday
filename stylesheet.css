@@ -1310,13 +1310,13 @@ audio {
 
 .btn-primary {
         border-color: #466baf;
-        padding: 10px;
-	border-radius:50%;
+        padding: 15px;
+	border-radius:30%;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
-	font-size: 75px;
+	font-size: 65px;
         background-color: #466baf;
 }
     .btn-primary:hover,
