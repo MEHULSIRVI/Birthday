@@ -1077,6 +1077,7 @@ audio {
 
   .slideshow img {
     margin-top: 200px;
+	  margin-right:30px;
 	width:850px;
 	border-radius: 10%;
 	height: 400px;  /* Replace with the cake image width */
@@ -1310,11 +1311,12 @@ audio {
 .btn-primary {
         border-color: #466baf;
         padding: 10px;
+	border-radius:50%;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
-	font-size: 100px;
+	font-size: 75px;
         background-color: #466baf;
 }
     .btn-primary:hover,
