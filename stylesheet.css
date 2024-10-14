@@ -1313,6 +1313,7 @@ audio {
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
+	font-size: 50px;
         background-color: #466baf;
 }
     .btn-primary:hover,
