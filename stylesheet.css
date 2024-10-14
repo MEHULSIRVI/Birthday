@@ -1076,7 +1076,7 @@ audio {
 }
 
   .slideshow img {
-    margin: auto;
+    margin-top: 200px;
 	width:850px;
 	border-radius: 10%;
 	height: 400px;  /* Replace with the cake image width */
